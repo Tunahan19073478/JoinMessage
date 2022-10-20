@@ -1,0 +1,10 @@
+name: Message
+version: '${project.version}'
+main: org.message.message.Message
+authors: [ TunahanKurd ]
+
+commands:
+  jmtk:
+    description: Reload for Config
+    permission: joinmessage.permission
+    usage: /<command>
